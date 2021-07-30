@@ -1,1 +1,5 @@
 
+The folader "dataset" stores the data sets for the experiments, including the data about edge_shell in the paper.
+
+OriginalDataset-part.rar   The orignal datasets used in the experiments.
+ShellOfEdgesInDatasets.rar   The data about edge_shell.
