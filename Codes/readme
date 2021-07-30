@@ -1,1 +1,8 @@
 
+The folader "Codes" stores the python resources of the experiments
+
+	-main.py:    the entry of model
+	-args.py:   the hyperparameter settings
+	-dataset.py:   the data loading
+	-model.py:     the definitions of compared models.
+	-train.py:    the training functions of model
