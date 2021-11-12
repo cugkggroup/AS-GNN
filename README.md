@@ -7,4 +7,4 @@ Lijun Dong, Hong Yao, Dan Li, Yi Wang, Shengwen Li and Qingzhong Liang (*). Impr
 
 
 ### About codes and datasets
-Please note that in the published codes and datasets, some operations (e.f. read()/write()) on the "local files" were based on our own directory environment. If you need to rebuild them, please reset the parameters in the codes according to your situations. 
+Please note that in the published codes and datasets, some operations (e.g. read()/write()) on the "local files" were based on our own directory environment. If you need to rebuild them, please reset the parameters in the codes according to your situations. 
