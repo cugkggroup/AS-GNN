@@ -3,8 +3,8 @@ import networkx as nx
 import numpy as np
 import multiprocessing as mp
 import random
-import shell_function as sf
-import subgraph_shell as ss
+#import shell_function as sf
+#import subgraph_shell as ss
 
 # # approximate
 def get_edge_mask_link_negative_approximate(mask_link_positive, num_nodes, num_negtive_edges):
